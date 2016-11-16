@@ -2,7 +2,6 @@
 #Ryan Andrews : CS 3500 Section A
 #
 # My First Lexical Analyzer
-# To have it read a file, type on the command line "python hw1.py3 input.txt"
 ####################################
 import sys
 
